@@ -1,5 +1,6 @@
 # Code Fake Mouse
 > https://github.com/nttrung9x/selenium-fake-mouse/search?q=ShowMouse
+> https://github.com/nttrung9x/selenium-fake-mouse/blob/main/Selenium.Humanize/Resources/ShowMouse.js
 
 # Selenium.Humanize
 
