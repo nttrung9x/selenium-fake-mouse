@@ -1,3 +1,6 @@
+# Code Fake Mouse
+> https://github.com/nttrung9x/selenium-fake-mouse/search?q=ShowMouse
+
 # Selenium.Humanize
 
 > A plugin for Selenium to prevent detection of abrupt movement (mouse/keyboard).
